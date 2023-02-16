@@ -1,0 +1,19 @@
+{
+    "output": "",
+    "tests": [
+        {
+            "score": 3.0,
+            "max_score": 3.0,
+            "name": "Parallel pie",
+            "output": "",
+            "visibility": "visible"
+        },
+        {
+            "score": 6.0,
+            "max_score": 6.0,
+            "name": "Semaphores",
+            "output": "",
+            "visibility": "visible"
+        }
+    ]
+}
